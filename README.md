@@ -1,4 +1,4 @@
-# Web geliştirme
+# Web Geliştirme
 
 ## Temel Konular
 * <a href="https://medium.com/kodcular/ag-kavramlari-c3980d23b322">Temel Ağ Kavramları</a>
