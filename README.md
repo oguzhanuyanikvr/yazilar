@@ -23,6 +23,7 @@
 * <a href="https://medium.com/kodcular/css-float-e825333f099e">CSS Float Özelliği</a>
 * <a href="https://medium.com/kodcular/css-display-247520b49544">CSS Display Özelliği</a>
 * <a href="https://medium.com/kodcular/css-position-576a40b69343">CSS Position Özelliği</a>
+* <a href="https://medium.com/kodcular/css-flexbox-3a2cec1f7614">CSS Flexbox Özelliği</a>
 * <a href="https://medium.com/kodcular/transform-ozelligi-f9a9c8d67deb">CSS Transform Özelliği</a>
 * <a href="https://medium.com/kodcular/medya-sorgulari-ea77a338075e">CSS Medya Sorguları</a>
 * <a href="https://medium.com/kodcular/css-secicileri-6253114d9264">CSS Seçicileri</a>
